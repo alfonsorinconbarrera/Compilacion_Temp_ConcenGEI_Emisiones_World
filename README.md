@@ -3,7 +3,7 @@
 Calentamiento global
 
 <p align="center">
-  <img width="360" src="/Animacion/Compilacion_Temp_ConcenGEI_Emision.mp4">
+  <img width="360" src="/Animacion/Compilacion_Temp_ConcenGEI_Emision.gif">
 </p>
 
 Animaciones OURINDATA, anomalías temperatura, concentraciones GEI y emisiones.
