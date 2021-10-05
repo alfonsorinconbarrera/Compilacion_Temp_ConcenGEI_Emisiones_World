@@ -3,7 +3,7 @@
 Calentamiento global
 
 <p align="center">
-  <img width="360" src="/Animacion_Gif/FocosCalor_Viirs_Byca_2012-2021.1.gif">
+  <img width="360" src="/Animacion/Compilacion_Temp_ConcenGEI_Emision.mp4">
 </p>
 
 Animaciones OURINDATA, anomalías temperatura, concentraciones GEI y emisiones.
