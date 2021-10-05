@@ -1,5 +1,11 @@
 # Compilacion_Temp_ConcenGEI_Emisiones_World
+
 Calentamiento global
+
+<p align="center">
+  <img width="360" src="/Animacion_Gif/FocosCalor_Viirs_Byca_2012-2021.1.gif">
+</p>
+
 Animaciones OURINDATA, anomalías temperatura, concentraciones GEI y emisiones.
 Fuente: NOOA, NASA, EEA, universitetetioslo
 
